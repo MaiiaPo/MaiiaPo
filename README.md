@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Frontend Developer</h3>
 
-- 📫 How to reach me **maiiapo.com@gmail.com**
+📫 How to reach me **maiiapo.com@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
